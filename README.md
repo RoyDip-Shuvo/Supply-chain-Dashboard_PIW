@@ -1,4 +1,4 @@
-# Supply-chain-Dashboard
+# PIW Dashboard Project
 
 <h2> Procurement Overview Page </h2>
 
